@@ -5,7 +5,9 @@ Anggota Kelompok<br><br>
 312110286 / DEAN ADRIANSYAH ASY'ARI<br>
 312110463 / STEVANI DEAN SAFIRA<br>
 312110291 / NANDA ROSMA ANWAR<br><br>
-TI.21.A2<br><br>
+TI.21.A2<br>
+Teknik Informatika<br>
+Universitas Pelita Bangsa<br><br>
 # USE CASE DIAGRAM
 ![Web-Klinik](https://github.com/ryanzinx/Web-Klinik/assets/92358422/aef6180e-6f14-4a12-8bf3-5b716db0f598)
 
