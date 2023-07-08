@@ -10,4 +10,9 @@ Teknik Informatika<br>
 Universitas Pelita Bangsa<br><br>
 # USE CASE DIAGRAM
 ![Web-Klinik](https://github.com/ryanzinx/Web-Klinik/assets/92358422/aef6180e-6f14-4a12-8bf3-5b716db0f598)
+# Web Demo
+https://klinikcemara.000webhostapp.com
+# Dokumentasi
+[Dokumentasi-Web-Klinik.pdf](https://github.com/ryanzinx/Web-Klinik/files/11988646/Dokumentasi-Web-Klinik.pdf)
+
 
